@@ -1,4 +1,4 @@
-# Sugguis Features - A Visual Tour
+# Suggia Features - A Visual Tour
 
 > **Experience a platform where startup ideas meet collaborators.** This guide walks you through the user journey with screenshots and GIFs showing every feature in action.
 
@@ -27,7 +27,7 @@
 
 ### The Journey Begins
 
-When you first land on Sugguis, you're greeted with an interactive welcome questionnaire that helps personalize your experience.
+When you first land on Suggia, you're greeted with an interactive welcome questionnaire that helps personalize your experience.
 
 <div align="center">
 <img src="../assets/photos/welcome_question_card.png" alt="Welcome Questionnaire" width="600">
@@ -166,7 +166,7 @@ The chat interface is clean, fast, and feature-rich.
 
 ### Read Receipts That Actually Work
 
-Unlike basic messengers, Sugguis tracks read status per user in team chats.
+Unlike basic messengers, Suggia tracks read status per user in team chats.
 
 <div align="center">
 <img src="../assets/photos/message_read_status.png" alt="Message Read Status" width="500">
@@ -220,7 +220,7 @@ Connect your GitHub account to share code directly in conversations.
 
 ### Your Public Profile
 
-Your profile is your identity in the Sugguis community.
+Your profile is your identity in the Suggia community.
 
 <div align="center">
 <img src="../assets/Screenshots/profile_screenshot.png" alt="User Profile Page" width="900">
@@ -277,7 +277,7 @@ Unlock achievements as you contribute to the community.
 
 ### The Star System
 
-Sugguis uses a fair, weighted reputation system with 4 star types.
+Suggia uses a fair, weighted reputation system with 4 star types.
 
 **Star Types & Weights:**
 - ⭐ **Idea Star** (weight: 1.0) - Create an idea
@@ -327,7 +327,7 @@ Search for users by skills, languages, experience, and more.
 - Industry sectors
 - Collaboration type (Remote, Hybrid, Onsite)
 
-**Why this matters:** Finding the right co-founder or team member is often harder than coming up with the idea. Sugguis makes discovery effortless.
+**Why this matters:** Finding the right co-founder or team member is often harder than coming up with the idea. Suggia makes discovery effortless.
 
 ---
 
@@ -440,7 +440,7 @@ Users can send feedback directly from the platform.
 
 ### 🎥 Guided Video Tour
 
-[![Sugguis Video Tutorial](../assets/video_preview/PNG/preview.png)](https://www.youtube.com/watch?v=k3H1lKf-ckE)
+[![Suggia Video Tutorial](../assets/video_preview/PNG/preview.png)](https://www.youtube.com/watch?v=k3H1lKf-ckE)
 
 [▶️ Watch the complete walkthrough on YouTube (5 minutes)](https://www.youtube.com/watch?v=k3H1lKf-ckE)
 
@@ -472,7 +472,7 @@ Return to the main README for quick navigation
 
 ### [Technical Architecture →](TECHNICAL.md)
 
-Explore the engineering behind Sugguis
+Explore the engineering behind Suggia
 
 </td>
 </tr>

@@ -1,4 +1,4 @@
-# Sugguis - The Universe of Ideas
+# Suggia - The Universe of Ideas
 
 ![Hero Screenshot](assets/Screenshots/landing_page_screenshot_1.png)
 
@@ -20,7 +20,7 @@ Built with senior-level engineering practices • Live with real users • Fully
 
 ---
 
-## What Makes Sugguis Special?
+## What Makes Suggia Special?
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ Built with senior-level engineering practices • Live with real users • Fully
 
 ### 🎯 [User Experience & Features](docs/FEATURES.md)
 
-**Discover what Sugguis offers**
+**Discover what Suggia offers**
 
 Walk through the platform with 25+ screenshots and GIFs showing:
 - Idea discovery and team formation

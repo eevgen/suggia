@@ -1,4 +1,4 @@
-# Sugguis - Technical Architecture
+# Suggia - Technical Architecture
 
 > **Production-ready Modular Monolith demonstrating senior-level engineering** through real-time architecture, multi-schema database design, and security-first infrastructure.
 
@@ -35,7 +35,7 @@
 
 ## Architecture Overview
 
-Sugguis is a startup idea collaboration platform built as a **Modular Monolith** with three independent functional domains. The architecture demonstrates production-ready engineering practices while maintaining pragmatic simplicity for efficient iteration.
+Suggia is a startup idea collaboration platform built as a **Modular Monolith** with three independent functional domains. The architecture demonstrates production-ready engineering practices while maintaining pragmatic simplicity for efficient iteration.
 
 ### Why Modular Monolith?
 
@@ -471,7 +471,7 @@ com.eevgen.startapideas/
 
 ### Schema Overview
 
-Sugguis uses **PostgreSQL 16** with a multi-schema design for domain separation.
+Suggia uses **PostgreSQL 16** with a multi-schema design for domain separation.
 
 | Schema | Tables | Purpose | Key Entities |
 |--------|--------|---------|--------------|
