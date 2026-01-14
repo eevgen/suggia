@@ -72,13 +72,13 @@ Built with senior-level engineering practices • Live with real users • Fully
 
 ---
 
-<video src="assets/GIF/mp4/interaction_with_ideas_workspace.mp4" alt="Interactive Workspace" width="70%" autoplay loop muted playsinline></video>
+<img src="assets/GIF/gif/ideas_workspace_dragging_visualization.gif" alt="Interactive Workspace" width="70%">
 
 *Interactive ideas workspace - drag, zoom, and explore ideas in a dynamic 3D space*
 
 ---
 
-<img src="assets/GIF/gif/galactic.gif" alt="Galaxy Animation" width="60%">
+<img src="assets/GIF/gif/galactic.gif" alt="Galaxy Animation" width="60%">8o0uijl. 
 
 *Dynamic galaxy visualization on user profiles showing level progression*
 
